@@ -11613,7 +11613,7 @@ eth-simple-keyring@^4.2.0:
 
 "eth-trezor-keyring@git+https://github.com/aloisklink/eth-trezor-keyring#support-eip-712":
   version "0.9.1"
-  resolved "git+https://github.com/aloisklink/eth-trezor-keyring#e5f9baaa66e1e7c14e6d5857ad22da1e2972e04f"
+  resolved "git+https://github.com/aloisklink/eth-trezor-keyring#17ecf932e4c0b2e5afb5506d16b7e00b032b5058"
   dependencies:
     "@ethereumjs/tx" "^3.2.1"
     ethereumjs-util "^7.0.9"
